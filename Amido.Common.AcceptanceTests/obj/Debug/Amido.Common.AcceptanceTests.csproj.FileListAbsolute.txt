@@ -1,0 +1,11 @@
+C:\development\Perso\SpecFlowSample\Amido.Common.AcceptanceTests\obj\Debug\Amido.Common.AcceptanceTests.csprojResolveAssemblyReference.cache
+C:\development\Perso\SpecFlowSample\Amido.Common.AcceptanceTests\bin\Debug\Amido.Common.AcceptanceTests.dll.config
+C:\development\Perso\SpecFlowSample\Amido.Common.AcceptanceTests\bin\Debug\Amido.Common.AcceptanceTests.dll
+C:\development\Perso\SpecFlowSample\Amido.Common.AcceptanceTests\bin\Debug\Amido.Common.AcceptanceTests.pdb
+C:\development\Perso\SpecFlowSample\Amido.Common.AcceptanceTests\bin\Debug\Amido.Calculator.Domain.dll
+C:\development\Perso\SpecFlowSample\Amido.Common.AcceptanceTests\bin\Debug\nunit.framework.dll
+C:\development\Perso\SpecFlowSample\Amido.Common.AcceptanceTests\bin\Debug\TechTalk.SpecFlow.dll
+C:\development\Perso\SpecFlowSample\Amido.Common.AcceptanceTests\bin\Debug\Amido.Calculator.Domain.pdb
+C:\development\Perso\SpecFlowSample\Amido.Common.AcceptanceTests\bin\Debug\nunit.framework.xml
+C:\development\Perso\SpecFlowSample\Amido.Common.AcceptanceTests\obj\Debug\Amido.Common.AcceptanceTests.dll
+C:\development\Perso\SpecFlowSample\Amido.Common.AcceptanceTests\obj\Debug\Amido.Common.AcceptanceTests.pdb

@@ -1,0 +1,4 @@
+C:\development\Perso\SpecFlowSample\Amido.Calculator.Domain\bin\Debug\Amido.Calculator.Domain.dll
+C:\development\Perso\SpecFlowSample\Amido.Calculator.Domain\bin\Debug\Amido.Calculator.Domain.pdb
+C:\development\Perso\SpecFlowSample\Amido.Calculator.Domain\obj\Debug\Amido.Calculator.Domain.dll
+C:\development\Perso\SpecFlowSample\Amido.Calculator.Domain\obj\Debug\Amido.Calculator.Domain.pdb
